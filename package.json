@@ -1,0 +1,23 @@
+{
+  "name": "jest-basic-test",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeMeLwin/jest-basic-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeMeLwin/jest-basic-test/issues"
+  },
+  "homepage": "https://github.com/MeMeLwin/jest-basic-test#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
